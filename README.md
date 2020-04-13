@@ -23,9 +23,13 @@ As bibliotecas a seguir são gerais para todos os algoritmos, alguns podem não 
 ## IPHAN (Nacional)
 O acervo do IPHAN é um dos mais completos disponíveis na internet e também um dos mais simples de extrair. As fotos são disponibilizadas com link direto, o que facilita bastante o trabalho. 
 
+[Link Acervo Digital](http://acervodigital.iphan.gov.br/xmlui/)
+
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/acervoIPHAN.py)
 
 ## UWM Libraries - AGSL Digital Photo Archive (Exterior)
 Já foi discutido a forma de extração neste acervo em [outro repositório](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive). O código está no link:
+
+[Link Acervo Digital](http://www.digitallibrarydirectory.com/libraries/agsl-digital-photo-archive-south-america)
 
 [**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
