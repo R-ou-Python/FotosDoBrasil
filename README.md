@@ -30,6 +30,6 @@ O acervo do IPHAN é um dos mais completos disponíveis na internet e também um
 ## UWM Libraries - AGSL Digital Photo Archive (Exterior)
 Já foi discutido a forma de extração neste acervo em [outro repositório](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive). O código está no link:
 
-[Link Acervo Digital](http://www.digitallibrarydirectory.com/libraries/agsl-digital-photo-archive-south-america)
+[Link Acervo Digital](https://uwm.edu/lib-collections/)
 
 [**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
