@@ -38,3 +38,6 @@ Já foi discutido a forma de extração neste acervo em [outro repositório](htt
 [Fotos Drive Fortaleza](https://drive.google.com/drive/u/1/folders/1CMycH7SLvyW0G-lSpfbVpVIb6JoI2h1M)
 
 [**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
+
+
+## IBGE - Acervo histórico
