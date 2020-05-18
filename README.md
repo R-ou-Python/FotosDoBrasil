@@ -28,16 +28,26 @@ O acervo do IPHAN é um dos mais completos disponíveis na internet e também um
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/acervoIPHAN.py)
 
 [Fotos Drive Ceará](https://drive.google.com/drive/u/1/folders/1ETbC7flXAfNRIFugfFQqUQCxwtRXbkQi)
+
 [Fotos Drive Fortaleza](https://drive.google.com/drive/folders/1BJHZp2EkQQOE1AUDCq468zs4N1nThAwr)
 
 ## UWM Libraries - AGSL Digital Photo Archive (Exterior)
 Já foi discutido a forma de extração neste acervo em [outro repositório](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive). O código está no link:
 
 [Link Acervo Digital](https://uwm.edu/lib-collections/)
+
 [Fotos Drive Ceará](https://drive.google.com/drive/u/1/folders/1YrQrRxkbFdccUbA7Vhzdo7NqlM6nEhji)
+
 [Fotos Drive Fortaleza](https://drive.google.com/drive/u/1/folders/1CMycH7SLvyW0G-lSpfbVpVIb6JoI2h1M)
 
 [**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
 
 
 ## IBGE - Acervo histórico
+Este é mais um acervo com bastante relevância nacional tendo fotos pouco divulgadas e em sua maioria com alta resolução. Para o Ceará, a maioria das fotos são datadas entre 1960 e 1980. 
+
+[Link Acervo Digital](https://biblioteca.ibge.gov.br/index.php)
+
+[**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/ibge_fotos.py)
+
+[Link Drive Ceará](https://drive.google.com/drive/folders/1775dDCDxOboUIWstOLaQ-UAYNyai_jya)
