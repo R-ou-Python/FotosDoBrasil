@@ -88,7 +88,7 @@ def navegar(busca, max_page):
     return (lista_ids_total)
 
 
-# Corrigir possíveis problemas de certificado - SSL
+# Corrigir possÃ­veis problemas de certificado - SSL
 try:
     _create_unverified_https_context = ssl._create_unverified_context
 except AttributeError:
@@ -109,11 +109,11 @@ except FileExistsError:
 # Buscando
 ids = navegar('Ceara', 31)
 
-for i in range(1833, len(ids)):
+for i in range(0, len(ids)):
     
     # Corrigir possiveis erros - as vezes o link nao esta completo (somente "ht")
     info = photo_info(ids[i])
-    name = info['Título']
+    name = info['TÃ­tulo']
     ano = info['Ano']
     valor_id = info['ID']
     link = info['Link']
