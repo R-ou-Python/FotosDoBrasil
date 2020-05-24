@@ -62,3 +62,5 @@ O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a persp
 [Link Acervo Digital](https://acervo.fortaleza.ce.gov.br/)
 
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/acervo_fortaleza.py)
+
+[Link Drive Fortaleza](https://drive.google.com/drive/folders/1DR1ZiGo1SvGEzUxmpOwCux-vspbzzsv-)
