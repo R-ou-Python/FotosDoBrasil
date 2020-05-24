@@ -54,7 +54,7 @@ Este é mais um acervo com bastante relevância nacional tendo fotos pouco divul
 
 [Link Drive Fortaleza](https://drive.google.com/drive/folders/1nH9Npewtm6xEUsmPp_VZve2lNWcw-jJu)
 
-## Acervo de Fortaleza
+## Acervo Digital de Fortaleza
 O Acervo Digital de Fortaleza é uma iniciativa do Instituto de Planejamento de Fortaleza (IPLANFOR) em parceria com a Prefeitura Municipal de Fortaleza.
 
 O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a perspectiva da sociedade e um dos pontos desta perspectiva é a viabilização de documentos públicos para a geração de conhecimento da cidade de Fortaleza.
