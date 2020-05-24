@@ -16,7 +16,9 @@ Caso alguém tenha interesse no álbum completo, segue o link do google drive:
   <img width="250" height="150" src="https://user-images.githubusercontent.com/56649205/82761959-6a48b980-9dd4-11ea-9dae-3840fe5d32c6.png">
 </p>
 
-[Drive com Fotos do Ceará Antigo](https://drive.google.com/drive/folders/19QGyUuMzX0ogb8NiY9PXXWb_EmGDMLMT?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/19QGyUuMzX0ogb8NiY9PXXWb_EmGDMLMT?usp=sharing">
+</p>
 
 Se alguém conhecer outros acervos digitais, posso tentar realizar um *download* em massa dos arquivos e hospedar no mesmo link em questão. É possível que qualquer um envie sua contribuição na pasta designada.
 
