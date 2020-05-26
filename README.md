@@ -32,6 +32,7 @@ As bibliotecas a seguir são gerais para todos os algoritmos, alguns podem não 
 * [Pandas](https://pandas.pydata.org/)
 * [Piexif](https://pypi.org/project/piexif/)
 * [Pillow](https://pypi.org/project/Pillow/)
+* [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/tutorial/)
 
 ## IPHAN (Nacional)
 O acervo do IPHAN é um dos mais completos disponíveis na internet e também um dos mais simples de extrair. As fotos são disponibilizadas com link direto, o que facilita bastante o trabalho. 
