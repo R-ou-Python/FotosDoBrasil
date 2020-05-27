@@ -34,6 +34,14 @@ As bibliotecas a seguir são gerais para todos os algoritmos, alguns podem não 
 * [Pillow](https://pypi.org/project/Pillow/)
 * [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/tutorial/)
 
+## Biblioteca Nacional Digital (Nacional)
+A Biblioteca Nacional Digital é o principal acervo online que detém diversos documentos históricos brasileiros digitalizados em alta definição. 
+
+[Link Acervo Digital](http://acervo.bndigital.bn.br/sophia/index.html)
+
+[**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/biblioteca_nacional.py)
+
+
 ## IPHAN (Nacional)
 O acervo do IPHAN é um dos mais completos disponíveis na internet e também um dos mais simples de extrair. As fotos são disponibilizadas com link direto, o que facilita bastante o trabalho. 
 
@@ -57,7 +65,7 @@ Já foi discutido a forma de extração neste acervo em [outro repositório](htt
 [**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
 
 
-## IBGE - Acervo histórico
+## IBGE - Acervo histórico (Nacional)
 Este é mais um acervo com bastante relevância nacional tendo fotos pouco divulgadas e em sua maioria com alta resolução. Para o Ceará, a maioria das fotos são datadas entre 1960 e 1980. 
 
 [Link Acervo Digital](https://biblioteca.ibge.gov.br/index.php)
@@ -68,7 +76,7 @@ Este é mais um acervo com bastante relevância nacional tendo fotos pouco divul
 
 [Link Drive Fortaleza](https://drive.google.com/drive/folders/1nH9Npewtm6xEUsmPp_VZve2lNWcw-jJu)
 
-## Acervo Digital de Fortaleza
+## Acervo Digital de Fortaleza (Regional)
 O Acervo Digital de Fortaleza é uma iniciativa do Instituto de Planejamento de Fortaleza (IPLANFOR) em parceria com a Prefeitura Municipal de Fortaleza.
 
 O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a perspectiva da sociedade e um dos pontos desta perspectiva é a viabilização de documentos públicos para a geração de conhecimento da cidade de Fortaleza.
