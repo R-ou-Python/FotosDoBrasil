@@ -41,6 +41,13 @@ A Biblioteca Nacional Digital é o principal acervo online que detém diversos d
 
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/biblioteca_nacional.py)
 
+## Brasiliana Fotográfica
+Brasiliana Fotográfica é um espaço para dar visibilidade, fomentar o debate e a reflexão sobre os acervos deste gênero documental, abordando-os enquanto fonte primária mas também enquanto patrimônio digital a ser preservado. Esta iniciativa começa com a união de esforços da Fundação Biblioteca Nacional e do Instituto Moreira Salles. A ela poderão vincular-se, no futuro, outras instituições do Brasil e do exterior, públicas e privadas, detentoras de acervos originais de documentos fotográficos referentes ao Brasil. 
+
+[Link Acervo Digital](http://brasilianafotografica.bn.br/brasiliana/)
+
+[**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/Brasiliana.py)
+
 
 ## IPHAN (Nacional)
 O acervo do IPHAN é um dos mais completos disponíveis na internet e também um dos mais simples de extrair. As fotos são disponibilizadas com link direto, o que facilita bastante o trabalho. 
@@ -79,7 +86,9 @@ Este é mais um acervo com bastante relevância nacional tendo fotos pouco divul
 ## Acervo Digital de Fortaleza (Regional)
 O Acervo Digital de Fortaleza é uma iniciativa do Instituto de Planejamento de Fortaleza (IPLANFOR) em parceria com a Prefeitura Municipal de Fortaleza.
 
-O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a perspectiva da sociedade e um dos pontos desta perspectiva é a viabilização de documentos públicos para a geração de conhecimento da cidade de Fortaleza.
+O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a perspectiva da sociedade e um dos pontos desta perspectiva é a viabilização de documentos públicos para a geração de conhecimento da cidade de Fortaleza. 
+
+*Infelizmente, apesar da boa quantidade de fotos, a maioria não tem uma boa resolução, sendo muitas extraídas de sites de internet com marcas d'água.*
 
 [Link Acervo Digital](https://acervo.fortaleza.ce.gov.br/)
 
