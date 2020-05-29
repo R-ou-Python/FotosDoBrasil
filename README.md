@@ -41,7 +41,7 @@ A Biblioteca Nacional Digital é o principal acervo online que detém diversos d
 
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/biblioteca_nacional.py)
 
-## Brasiliana Fotográfica
+## Brasiliana Fotográfica (Nacional)
 Brasiliana Fotográfica é um espaço para dar visibilidade, fomentar o debate e a reflexão sobre os acervos deste gênero documental, abordando-os enquanto fonte primária mas também enquanto patrimônio digital a ser preservado. Esta iniciativa começa com a união de esforços da Fundação Biblioteca Nacional e do Instituto Moreira Salles. A ela poderão vincular-se, no futuro, outras instituições do Brasil e do exterior, públicas e privadas, detentoras de acervos originais de documentos fotográficos referentes ao Brasil. 
 
 [Link Acervo Digital](http://brasilianafotografica.bn.br/brasiliana/)
