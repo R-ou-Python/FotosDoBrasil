@@ -21,7 +21,7 @@ def baixar_foto(link):
     # Avalia a precisão correta
     endereco = iguais[0] + '/GeneratedImages/dzc_output_files/{}/{}_{}.{}'.format(precisao, '0', '0', formato)
     response = requests.get(endereco)
-    if response.status_code!=200:
+    if response.status_code != 200:
         endereco = iguais[0] + '/GeneratedImages/dzc_output_files/{}/{}_{}.{}'.format('13', '0', '0', 'jpeg')
         response = requests.get(endereco)
         if response.status_code==200:
@@ -98,20 +98,19 @@ def baixar_mapa(link):
 
             error += 1
 
-        if response.status_code==200:
-            # Baixa as imagens, caso não encontre saí do loop
-            print(precisao, formato)
-            for coluna in range(0, 50):
-                for linha in range(0, 50):
-                    try:
-                        endereco = os.path.dirname(link) + '/GeneratedImages/dzc_output_files/{}/{}_{}.{}'.format(precisao, coluna, linha, formato)
-                        response = requests.get(endereco)   
-                        #print(str(response.status_code) + ' - ' + endereco)
-                        urllib.request.urlretrieve(endereco, path+'//{}_{}.jpg'.format(coluna, linha))
-                    except:
-                        break     
+    if response.status_code == 200:
+        # Baixa as imagens, caso não encontre saí do loop
+        print(precisao, formato)
+        for coluna in range(0, 50):
+            for linha in range(0, 50):
+                try:
+                    endereco = os.path.dirname(link) + '/GeneratedImages/dzc_output_files/{}/{}_{}.{}'.format(precisao, coluna, linha, formato)
+                    response = requests.get(endereco)   
+                    #print(str(response.status_code) + ' - ' + endereco)
+                    urllib.request.urlretrieve(endereco, path+'//{}_{}.jpg'.format(coluna, linha))
+                except:
+                    break     
             
-    
     # Method 2 - Precision
     if response.status_code != 200:
         precisao = '14'
@@ -157,7 +156,7 @@ def baixar_mapa(link):
             error += 1
             
         
-        if response.status_code==200:
+        if response.status_code == 200:
             # Baixa as imagens, caso não encontre saí do loop
             print(precisao, formato)
             for coluna in range(0, 50):
@@ -215,6 +214,7 @@ def merger(path):
             except:
                 break
     return(new_im)
+
 
 def navegar(pesquisa):
     img_name=[]
@@ -308,7 +308,7 @@ def navegar(pesquisa):
 
 
 if __name__ == '__main__':
-
+    
     # Search
     links = navegar('Ceará')
     
@@ -317,7 +317,7 @@ if __name__ == '__main__':
         flink.write(str(links))
     
     # Extract photos
-    for filename, link in links[78:]:
+    for filename, link in links[0:]:
         if link.endswith('html'):
 
             # Temporary folder
@@ -328,6 +328,7 @@ if __name__ == '__main__':
             # Download
             if link.find('div_manuscritos') != -1 or link.find('div_iconografia') != -1:
                 baixar_foto(link)
+
             elif link.find('div_cartografia') != -1:
                 baixar_mapa(link)
 
