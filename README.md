@@ -48,7 +48,6 @@ Brasiliana Fotográfica é um espaço para dar visibilidade, fomentar o debate e
 
 [**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/Brasiliana.py)
 
-
 ## IPHAN (Nacional)
 O acervo do IPHAN é um dos mais completos disponíveis na internet e também um dos mais simples de extrair. As fotos são disponibilizadas com link direto, o que facilita bastante o trabalho. 
 
@@ -60,18 +59,6 @@ O acervo do IPHAN é um dos mais completos disponíveis na internet e também um
 
 [Fotos Drive Fortaleza](https://drive.google.com/drive/folders/1BJHZp2EkQQOE1AUDCq468zs4N1nThAwr)
 
-## UWM Libraries - AGSL Digital Photo Archive (Exterior)
-Já foi discutido a forma de extração neste acervo em [outro repositório](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive). O código está no link:
-
-[Link Acervo Digital](https://uwm.edu/lib-collections/)
-
-[Fotos Drive Ceará](https://drive.google.com/drive/u/1/folders/1YrQrRxkbFdccUbA7Vhzdo7NqlM6nEhji)
-
-[Fotos Drive Fortaleza](https://drive.google.com/drive/u/1/folders/1CMycH7SLvyW0G-lSpfbVpVIb6JoI2h1M)
-
-[**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
-
-
 ## IBGE - Acervo histórico (Nacional)
 Este é mais um acervo com bastante relevância nacional tendo fotos pouco divulgadas e em sua maioria com alta resolução. Para o Ceará, a maioria das fotos são datadas entre 1960 e 1980. 
 
@@ -82,6 +69,13 @@ Este é mais um acervo com bastante relevância nacional tendo fotos pouco divul
 [Link Drive Ceará](https://drive.google.com/drive/folders/1775dDCDxOboUIWstOLaQ-UAYNyai_jya)
 
 [Link Drive Fortaleza](https://drive.google.com/drive/folders/1nH9Npewtm6xEUsmPp_VZve2lNWcw-jJu)
+
+## Instituto Moreira Salles - Acervo Digital (Nacional)
+O Instituto Moreira Salles conta com importantes acervos em quatro áreas: Fotografia, em mais larga escala, Música, Literatura e Iconografia. Na conservação, organização e difusão desse material, aos quais se juntam a Biblioteca de Fotografia do IMS Paulista e a Coleção Walther Moreira Salles, o Instituto busca cumprir seu objetivo fundamental de promover o mais amplo acesso a esse patrimônio.
+
+[Link Acervo Digital](http://201.73.128.131:8080/portals/#/categories)
+
+[**Código Python**](https://github.com/luiseduardobr1/FotosDoBrasil/blob/master/IMS_scrap.py)
 
 ## Acervo Digital de Fortaleza (Regional)
 O Acervo Digital de Fortaleza é uma iniciativa do Instituto de Planejamento de Fortaleza (IPLANFOR) em parceria com a Prefeitura Municipal de Fortaleza.
@@ -97,3 +91,14 @@ O IPLANFOR tem como um dos seus objetivos estratégicos uma visão sobre a persp
 [Link Drive Fortaleza](https://drive.google.com/drive/folders/1DR1ZiGo1SvGEzUxmpOwCux-vspbzzsv-)
 
 [Publicações históricas do Ceará digitalizadas](https://ufdc.ufl.edu/results/brief/?t=ceara)
+
+## UWM Libraries - AGSL Digital Photo Archive (Exterior)
+Já foi discutido a forma de extração neste acervo em [outro repositório](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive). O código está no link:
+
+[Link Acervo Digital](https://uwm.edu/lib-collections/)
+
+[Fotos Drive Ceará](https://drive.google.com/drive/u/1/folders/1YrQrRxkbFdccUbA7Vhzdo7NqlM6nEhji)
+
+[Fotos Drive Fortaleza](https://drive.google.com/drive/u/1/folders/1CMycH7SLvyW0G-lSpfbVpVIb6JoI2h1M)
+
+[**Código Python**](https://github.com/luiseduardobr1/UWMLibrariesPhotoArchive/blob/master/PhotoWebScraping.py)
